@@ -49,7 +49,7 @@ yesBtn.addEventListener("click", () => {
 
     title.textContent = "Yuppiee(˶ᵔ ᵕ ᵔ˶)";
 
-    catImg.src = "dance.gif";
+    catImg.src = "Cute.gif";
 
     finalText.style.display = "block";
 
